@@ -1,3 +1,9 @@
+#player,#player a{ color:#233031; font-family: Source Sans Pro;}
+#player{ background:url(https://i.imgur.com/bqNkbw1.png); background-position:bottom; background-color: #f8f8f8 }
+#player .mainImage{ background:url(https://i.imgur.com/dgVbw3C.png); }
+	
+#player #baseLeft{ width:93px; }
+#player #baseRight{ width:145px;}
 #player .button{  width:26px; }
 #player #play{ background:url(https://i.imgur.com/heaM1g4.png); }
 #player #play,#player #pause{ left:26px; }
