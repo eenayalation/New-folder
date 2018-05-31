@@ -1,11 +1,5 @@
-#player,#player a{ color:#999; font-family: tahoma;}
-#player{ background:url(http://static.tumblr.com/83zgfej/vQEm0co2b/baseapple1.png); background-position:bottom; background-color: #fff }
-#player .mainImage{ background:url(http://static.tumblr.com/83zgfej/RUlm1iqqd/basesimple.png); }
-	
-#player #baseLeft{ width:93px; }
-#player #baseRight{ width:145px;}
 #player .button{  width:26px; }
-#player #play{ background:url(http://static.tumblr.com/83zgfej/V72m1iqrj/play11.png); }
+#player #play{ background:url(https://i.imgur.com/heaM1g4.png); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
@@ -15,16 +9,16 @@
 #player #list{ right:0px; }
 
 #player #seeker{ right:320px; }
-#player #seekerBase{ border-color:#fff;  }
-#player #seekerBuffered{ background-color:#cacaca; }
-#player #seekerSliderBase{ background-color:#999; }
+#player #seekerBase{ border-color:#f8f8f8;  }
+#player #seekerBuffered{ background-color:#769091; }
+#player #seekerSliderBase{ background-color:#dfa782; }
 
 #player #volume{ width:65px; right:39px; }
-#player #volumeSlider{ width:8px; background:url(http://static.tumblr.com/83zgfej/vQEm0co2b/baseapple1.png); }
+#player #volumeSlider{ width:8px; background:url(https://i.imgur.com/bqNkbw1.png); }
 
-#playlist,#playlist .module,#playlist h3{ border-color:#fff;}
-#playlist .module{ color:#333; background-color:#fff; }
-#playlist h3{ background:url(http://static.tumblr.com/gigxqem/uD3lzwm3j/awn4.jpg); color:#494949; background-color:#fff; }
-#playlist .even{background-color:#fff;}
-#playlist .odd{ background-color:#fff;}
-#playlist .focus{ background-color:#fff; color:#999;}
+#playlist,#playlist .module,#playlist h3{ border-color:#f8f8f8;}
+#playlist .module{ color:#233031; background-color:#f8f8f8; }
+#playlist h3{ background:url(https://i.imgur.com/MoTK23S.jpg); color:#233031; background-color:#f8f8f8; }
+#playlist .even{background-color:#f8f8f8;}
+#playlist .odd{ background-color:#f8f8f8;}
+#playlist .focus{ background-color:#f8f8f8; color:#dfa782;}
